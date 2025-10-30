@@ -1,0 +1,84 @@
+{
+  "user_searches": {
+    "8223474190": 12,
+    "2054354957": 5010,
+    "8253730478": 9,
+    "8459160419": 7,
+    "5706844426": 5
+  },
+  "user_sessions": {
+    "8223474190": 1761787324.4734426,
+    "2054354957": 1761796022.9036458,
+    "8253730478": 1761703106.812835,
+    "8459160419": 1761797592.567048,
+    "5706844426": 1761791960.2596924
+  },
+  "user_last_request": {
+    "8223474190": 1761787032.6941762,
+    "2054354957": 1761641837.0841925,
+    "8253730478": 1761703106.812835,
+    "8459160419": 1761791388.7384331,
+    "5706844426": 1761791960.2596924
+  },
+  "user_warnings": {
+    "8223474190": 0,
+    "2054354957": 0,
+    "8253730478": 0,
+    "8459160419": 0,
+    "5706844426": 0
+  },
+  "user_bans": {},
+  "user_states": {
+    "8223474190": "awaiting_license",
+    "8459160419": "mobile"
+  },
+  "user_logs": {
+    "8223474190": [
+      "2025-10-28T03:36:26.749464 | LicenseVerified | ",
+      "2025-10-28T04:19:47.666358 | LicenseVerified | ",
+      "2025-10-28T04:20:24.358747 | Search | mobile | query=9041567043 | remaining=10",
+      "2025-10-28T04:21:20.249534 | Search | mobile | query=9041567043 | remaining=9",
+      "2025-10-28T04:28:06.922435 | LicenseVerified | ",
+      "2025-10-28T04:28:28.387288 | LicenseVerified | ",
+      "2025-10-28T04:28:48.645383 | Search | mobile | query=9041567043 | remaining=8",
+      "2025-10-28T04:33:24.012750 | LicenseVerified | ",
+      "2025-10-28T08:56:57.525271 | LicenseVerified | ",
+      "2025-10-30T01:11:14.191286 | LicenseVerified | ",
+      "2025-10-30T01:17:27.206861 | Search | mobile | query=9041467063 | remaining=12"
+    ],
+    "2054354957": [
+      "2025-10-28T08:56:21.704142 | LicenseVerified | ",
+      "2025-10-28T08:56:50.529304 | Search | mobile | query=9041567043 | remaining=10",
+      "2025-10-28T08:57:37.756266 | Search | mobile | query=9041567043 | remaining=10",
+      "2025-10-30T01:16:16.470873 | LicenseVerified | ",
+      "2025-10-30T03:43:24.101422 | LicenseVerified | "
+    ],
+    "8253730478": [
+      "2025-10-29T01:57:27.316899 | LicenseVerified | ",
+      "2025-10-29T01:57:56.442770 | Search | mobile | query=9041567042 | remaining=9",
+      "2025-10-29T01:58:51.543401 | Search | aadhaar | query=262878251250 | remaining=9"
+    ],
+    "8459160419": [
+      "2025-10-30T02:23:23.540074 | LicenseVerified | ",
+      "2025-10-30T02:24:06.026469 | Search | upi | query=manjotkaur9876567@oksbi | remaining=9",
+      "2025-10-30T02:26:41.067868 | Search | vehicle | query=PB07BT0001 | remaining=8",
+      "2025-10-30T02:28:31.556957 | Search | mobile | query=9041579032 | remaining=7",
+      "2025-10-30T02:29:40.612598 | Search | aadhaar | query=453928530004 | remaining=7",
+      "2025-10-30T02:30:12.764269 | Search | aadhaar | query=453928530004 | remaining=7",
+      "2025-10-30T03:45:11.910353 | LicenseVerified | "
+    ],
+    "5706844426": [
+      "2025-10-30T02:30:20.742646 | InvalidLicenseAttempt | n5MM58",
+      "2025-10-30T02:30:32.853864 | LicenseVerified | ",
+      "2025-10-30T02:31:36.661972 | Search | vehicle | query=UP63BH3919 | remaining=9",
+      "2025-10-30T02:33:17.479169 | Search | upi | query=kushawaha@fam | remaining=8",
+      "2025-10-30T02:35:03.906778 | Search | upi | query=gaurav.singh.senatani@ybl | remaining=7",
+      "2025-10-30T02:38:04.367069 | Search | mobile | query=7388014547 | remaining=6",
+      "2025-10-30T02:39:33.467615 | Search | mobile | query=8400546823 | remaining=5"
+    ]
+  },
+  "verified_users": {
+    "2054354957": "n5MM78",
+    "8459160419": "n5MM78"
+  }
+}
