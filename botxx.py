@@ -244,7 +244,7 @@ def main_keyboard():
         types.InlineKeyboardButton("🚗 VEHICLE", callback_data="vehicle"),
         types.InlineKeyboardButton("🆔 AADHAAR", callback_data="aadhaar"),
     )
-    kb.row(types.InlineKeyboardButton("👤 ADMIN", url="https://t.me/PB_I3"))
+    kb.row(types.InlineKeyboardButton("👤 ADMIN", url="https://t.me/jaswant_exe_bot"))
     return kb
 
 # =============== HANDLERS ===============
