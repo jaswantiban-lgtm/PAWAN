@@ -38,8 +38,8 @@ WARNING_LIMIT = 5
 TEMP_BAN_SECONDS = 600
 
 # Bonus settings
-DAILY_BONUS_MIN = 3
-DAILY_BONUS_MAX = 5
+DAILY_BONUS_MIN = 1
+DAILY_BONUS_MAX = 2
 
 # Data file
 current_dir = os.path.dirname(os.path.abspath(__file__))
