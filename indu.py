@@ -79,7 +79,7 @@ def sync_with_github(reason="manual"):
         print("⚠️ GitHub sync is disabled")
         return False
         
-    if not GITHUB_TOKEN or GITHUB_TOKEN == "ghp_your_github_token_here":
+    if not GITHUB_TOKEN or GITHUB_TOKEN == "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":
         print("⚠️ GitHub token not configured")
         return False
         
