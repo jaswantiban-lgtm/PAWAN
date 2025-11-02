@@ -33,8 +33,8 @@ API_UPI = "http://dark-op.dev-is.xyz/?key=wasdark&upi="
 # Settings
 SESSION_TIMEOUT = 1800
 COOLDOWN_SECONDS = 10
-FREE_SEARCHES = 10
-WARNING_LIMIT = 5
+FREE_SEARCHES = 5
+WARNING_LIMIT = 2
 TEMP_BAN_SECONDS = 600
 
 # Bonus settings
